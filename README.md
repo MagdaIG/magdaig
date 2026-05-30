@@ -38,10 +38,5 @@ delivery consistent and reliable. I ship in short, steady iterations.
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MagdaIG&show_icons=true&include_all_commits=true&hide_border=true&title_color=4f8fba&icon_color=4f8fba&text_color=24292e&bg_color=ffffff" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MagdaIG&hide_border=true&background=ffffff&ring=4f8fba&fire=4f8fba&currStreakLabel=24292e&sideLabels=24292e&dates=8b949e&stroke=eaecef" alt="streak" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagdaIG&layout=compact&hide_border=true&title_color=4f8fba&text_color=24292e&bg_color=ffffff" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagdaIG&hide_border=true&background=ffffff&ring=4f8fba&fire=4f8fba&currStreakLabel=24292e&sideLabels=24292e&dates=8b949e&stroke=eaecef" alt="streak stats" />
 </p>
